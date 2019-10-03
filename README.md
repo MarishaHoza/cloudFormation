@@ -1,9 +1,9 @@
 # YML Debugging
 
 # Teammates:
-Brandon Hurrington
-Chris Coulon
-Marisha Hoza
+* Brandon Hurrington
+* Chris Coulon
+* Marisha Hoza
 
 # File 1:
 * Error: during yml file upload, we could not progress to the next step because of an "invalid alphanumeric error" on the s3 bucket name
