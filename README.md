@@ -14,27 +14,17 @@
 
 We reviewed additional yml files for errors. Found some missing sections and keywords, but did not create additional pipelines.
 
-# File 2:
+### File 2:
 * Bug: line 74 s3 bucket was private
-* Resolution: changed to public read
-* PR: no, not pushing my github key thankyou
 
-# File 3:
+### File 3:
 * Bug: lines 40-43 did not reference variables
-* Resolution: added !Ref in front of variables
-* PR: no, not pushing my github key thankyou
 
-# File 4:
+### File 4:
 * Bug: missing CodeBuildRole entirely
-* Resolution: added CodeBuildRole
-* PR: no, not pushing my github key thankyou
 
-# File 5:
+### File 5:
 * Bug: incorrect category on line 32, incorrect action on line 135, missing recursive on line 174
-* Resolution: fixed above
-* PR: no, not pushing my github key thankyou
 
-# File 6:
+### File 6:
 * Bug: order of github repo and github owner was flipped
-* Resolution: corrected order
-* PR: no, not pushing my github key thankyou
